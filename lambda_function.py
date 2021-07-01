@@ -3,7 +3,7 @@ import os
 import sys
      
 # Get the current working
-# directory (CWD)
+# current working directory (CWD)
 cwd = os.getcwd()
 
 def lambda_handler(event, context):
